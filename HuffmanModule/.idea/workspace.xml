@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e6bebe-5275-43ce-821e-587b81683a38" name="Default Changelist" comment="-m &quot;module&quot;">
+      <change afterPath="$PROJECT_DIR$/../HomeTaskNix/HomeTaskNix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdaptiveHuffmanCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdaptiveHuffmanDecompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BitInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BitOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CanonicalCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassicNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FrequencyTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HuffmanDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HuffmanEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeafNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AdaptiveHuffmanCompressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HuffmanCodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AdaptiveHuffmanCompress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AdaptiveHuffmanDecompress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BitInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BitOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CanonicalCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CodeTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FrequencyTable$NodeWithFrequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FrequencyTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuffmanDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuffmanEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InternalNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/HuffmanModule.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/AdaptiveHuffmanCompressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HuffmanCodingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Snake-Game-master/.idea/Java-Snake-Game-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lection1/Lection1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE2Nix/MODULE2Nix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod2/Mod2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/Module2Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/src/HuffmanCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/src/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Razmen/Razmen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Razmen/src/Pack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop1/oop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visual/MSBuild/Microsoft/VisualStudio/NodeJs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\HuffmanModule\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VX3z0ig5QXmS2sFHAC3IzoatB0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/1234.txt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.13831258" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.AdaptiveHuffmanCompress">
+    <configuration name="AdaptiveHuffmanCompress" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdaptiveHuffmanCompress" />
+      <module name="HuffmanModule" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\User\Desktop\1234.txt C:\Users\User\Desktop\Новый текстовый документ.hf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdaptiveHuffmanDecompress" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdaptiveHuffmanDecompress" />
+      <module name="HuffmanModule" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\User\Desktop\1234.txt C:\Users\User\Desktop\Новый текстовый документ.hf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanCompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffmanCompress" />
+      <module name="HuffmanModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanCodingTest.testEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HuffmanModule" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HuffmanCodingTest" />
+      <option name="METHOD_NAME" value="testEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AdaptiveHuffmanCompress" />
+      <item itemvalue="Application.AdaptiveHuffmanDecompress" />
+      <item itemvalue="Application.HuffmanCompress" />
+      <item itemvalue="JUnit.HuffmanCodingTest.testEmpty" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HuffmanCodingTest.testEmpty" />
+        <item itemvalue="Application.HuffmanCompress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e6bebe-5275-43ce-821e-587b81683a38" name="Default Changelist" comment="" />
+      <created>1577385870372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577385870372</updated>
+    </task>
+    <task id="LOCAL-00001" summary="-m &quot;module&quot;">
+      <created>1577475506578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577475506578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m &quot;module&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;module&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577472328855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577472328855" />
+    <state x="529" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577472941935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577472941935" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577464927555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1577464927555" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577472436050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577472436050" />
+    <state x="332" y="6" key="CommitChangelistDialog2" timestamp="1577475620363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577475620363" />
+    <state x="614" y="155" key="FileChooserDialogImpl" timestamp="1577472326492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577472326492" />
+    <state width="746" height="2" key="GridCell.Tab.0.bottom" timestamp="1577475510302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577475510302" />
+    <state width="746" height="2" key="GridCell.Tab.0.center" timestamp="1577475510301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577475510301" />
+    <state width="746" height="2" key="GridCell.Tab.0.left" timestamp="1577475510300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577475510300" />
+    <state width="746" height="2" key="GridCell.Tab.0.right" timestamp="1577475510302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577475510302" />
+    <state x="289" y="35" key="SettingsEditor" timestamp="1577475234333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="289" y="35" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577475234333" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577474747426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1577474747426" />
+    <state x="209" y="107" key="new project wizard" timestamp="1577467005977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577467005977" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1577472619173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577472619173" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/../" />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
